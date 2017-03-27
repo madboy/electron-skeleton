@@ -1,0 +1,12 @@
+{
+  "name": "test-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "@types/electron": "^1.4.34",
+    "@types/node": "^7.0.11"
+  },
+  "dependencies": {
+    "@types/electron": "^1.4.34"
+  }
+}
